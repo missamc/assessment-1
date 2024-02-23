@@ -11,6 +11,9 @@
 
 //CODE HERE
 
+let gitDefinition = "Program"
+console.log(`gitDefinition`)
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +21,9 @@
 */
 
 //CODE HERE
+
+let gitHubDefinition = "Code Cloud"
+console.log(gitHubDefinition)
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +33,9 @@
 
 //CODE HERE
 
+let gitInitDefinition = "Initialize a local repository in very folder"
+console.log(gitInitDefinition)
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -35,6 +44,9 @@
 
 //CODE HERE
 
+let gitCloneDefinition = "Basically pulling a copy of my code from GitHub"
+console.log(gitCloneDefinition)
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +54,9 @@
 */
 
 //CODE HERE
+
+let gitStatusDefinition = "tells me about this repo"
+console.log(gitStatusDefinition)
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +69,9 @@
 
 //CODE HERE
 
+let gitAddDefinition = "Adds some files to be tracked"
+console.log(gitAddDefinition)
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +83,8 @@
 
 //CODE HERE
 
+let gitCommanDefinition = "Create a snapshot of the files I'm tracking"
+console.log(gitCommanDefinition)
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +93,6 @@
 */
 
 //CODE HERE
+
+let gitPushDefinition = "Push new code mods into current code repo"
+console.log(gitPushDefinition)

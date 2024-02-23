@@ -51,6 +51,12 @@ const pinkPrice = .55
 
 // CODE HERE
 
+let totalAcres = 0
+
+for(i = 0; i < fujiAcres.length; i++){
+    console.log(totalAcres + fujiAcres[i])
+}
+
 
 
 
@@ -107,7 +113,12 @@ let days = 0
 
 // CODE HERE
 
+let x= 0
 
+while(x < 174){
+    console.log(`x is small.`)
+    x+= 1
+}
 
 // PROBLEM 4
 
